@@ -14,7 +14,7 @@ Miana is a ECS revival that allows you to Relive Roblox 2018.
 - azure - patch the RCE
 - Toshino - Co-Owner,Manager,Patched 2016 Webclient Of Miana
 - Lia - buyed the vps and domain
-
+- harryzawg - made bubbablox
 # HOW TO RUN/BUILD/COMPILE
 
 You will need the following dependencies:
@@ -83,5 +83,8 @@ Step 8. RCC/Rendering setup time: Go to services/RCCService, in a command prompt
 ```
 
 Once that's done, in services/game-server, run ```npm i```, then ```npm run build```, then ```npm run start```. If everything is correctly, in a few seconds you should see "[info] new connection" in the console of game-server. Request a render, and if everything went properly, it will work.
+
+
+#  this source code its 2024M Version,rename miiana.lol for your domain for config.json frontend works,and economy-simulator.org
 
 Note that you will need to configure a lot more things, these are just the basics.
